@@ -3,6 +3,7 @@ import torch.nn as nn
 from attention import scaled_dot_product_attention
 
 class MultiHeadAttention(nn.Module):
+    
     def __init__(self, d_model, num_heads):
         super().__init__()
 

@@ -2,6 +2,7 @@ import torch
 import torch.nn as nn
 
 class GPTInputEmbedding(nn.Module):
+    
     def __init__(self,vocab_size, d_model, max_seq_len):
         super().__init__()
 
