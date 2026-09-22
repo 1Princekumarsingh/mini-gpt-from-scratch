@@ -1,0 +1,200 @@
+the cat sat on the mat
+the dog sat on the rug
+the cat likes milk
+the dog likes food
+the cat is small
+the dog is big
+the bird sat on the tree
+the fish swims in the pond
+the horse runs in the field
+the cow eats green grass
+the rabbit likes carrots
+the mouse likes cheese
+the cat drinks water
+the dog drinks water
+the bird eats seeds
+the fish likes clean water
+the horse eats hay
+the cow drinks milk
+the rabbit is fast
+the mouse is small
+the cat sees the bird
+the dog sees the cat
+the bird sees the tree
+the fish sees the pond
+the horse sees the field
+the cow sees the farmer
+the rabbit sees the carrot
+the mouse sees the cheese
+the cat has a toy
+the dog has a ball
+the bird has a nest
+the fish has a fin
+the horse has a tail
+the cow has a bell
+the rabbit has long ears
+the mouse has a tiny tail
+the cat plays with the toy
+the dog plays with the ball
+the bird flies over the tree
+the fish swims under the bridge
+the horse walks near the barn
+the cow stands by the fence
+the rabbit runs across the yard
+the mouse hides under the table
+the cat sleeps on the bed
+the dog sleeps on the floor
+the bird sleeps in the nest
+the fish sleeps in the pond
+the horse sleeps in the barn
+the cow sleeps in the shed
+the rabbit sleeps in the box
+the mouse sleeps near the wall
+the cat is happy
+the dog is hungry
+the bird is quiet
+the fish is calm
+the horse is strong
+the cow is gentle
+the rabbit is soft
+the mouse is quick
+the cat is near the window
+the dog is near the door
+the bird is near the roof
+the fish is near the rock
+the horse is near the gate
+the cow is near the barn
+the rabbit is near the garden
+the mouse is near the kitchen
+the cat walks to the bowl
+the dog walks to the yard
+the bird flies to the tree
+the fish swims to the rock
+the horse walks to the barn
+the cow walks to the field
+the rabbit runs to the garden
+the mouse runs to the corner
+the cat eats the fish
+the dog eats the meat
+the bird eats the seed
+the fish eats the food
+the horse eats the hay
+the cow eats the grass
+the rabbit eats the carrot
+the mouse eats the cheese
+the cat drinks from the bowl
+the dog drinks from the cup
+the bird drinks from the pond
+the fish drinks clean water
+the horse drinks from the bucket
+the cow drinks from the trough
+the rabbit drinks from the dish
+the mouse drinks from the bowl
+the cat likes the red ball
+the dog likes the blue ball
+the bird likes the tall tree
+the fish likes the deep pond
+the horse likes the open field
+the cow likes the fresh grass
+the rabbit likes the orange carrot
+the mouse likes the yellow cheese
+the cat finds a toy
+the dog finds a stick
+the bird finds a seed
+the fish finds food
+the horse finds hay
+the cow finds grass
+the rabbit finds a carrot
+the mouse finds cheese
+the cat carries the toy
+the dog carries the stick
+the bird carries the seed
+the horse carries the hay
+the cow carries no bag
+the rabbit carries the carrot
+the mouse carries the cheese
+the cat watches the bird
+the dog watches the cat
+the bird watches the fish
+the fish watches the boat
+the horse watches the cow
+the cow watches the horse
+the rabbit watches the mouse
+the mouse watches the cat
+the cat runs in the house
+the dog runs in the park
+the bird flies in the sky
+the fish swims in the lake
+the horse runs on the path
+the cow walks on the road
+the rabbit hops in the grass
+the mouse moves in the dark
+the cat sits by the door
+the dog sits by the bed
+the bird sits on the branch
+the fish rests by the rock
+the horse stands by the gate
+the cow stands in the field
+the rabbit sits in the box
+the mouse sits under the chair
+the cat sees a red flower
+the dog sees a blue sky
+the bird sees a tall tree
+the fish sees a small boat
+the horse sees a green field
+the cow sees a white fence
+the rabbit sees a yellow flower
+the mouse sees a big box
+the cat is under the table
+the dog is behind the chair
+the bird is above the house
+the fish is below the bridge
+the horse is inside the barn
+the cow is outside the shed
+the rabbit is beside the tree
+the mouse is between two boxes
+the cat follows the dog
+the dog follows the cat
+the bird follows the horse
+the fish follows the boat
+the horse follows the cow
+the cow follows the farmer
+the rabbit follows the mouse
+the mouse follows the cat
+the cat needs some food
+the dog needs some water
+the bird needs a nest
+the fish needs clean water
+the horse needs some hay
+the cow needs fresh grass
+the rabbit needs a carrot
+the mouse needs some cheese
+the cat opens the door
+the dog closes the door
+the bird sees the sun
+the fish sees the moon
+the horse walks in the rain
+the cow stands in the sun
+the rabbit hides in the grass
+the mouse hides in the box
+the cat sleeps at night
+the dog plays in the morning
+the bird sings in the morning
+the fish swims in the afternoon
+the horse rests in the evening
+the cow eats in the morning
+the rabbit runs in the evening
+the mouse sleeps in the afternoon
+the cat chases the mouse
+the dog chases the ball
+the bird chases the bug
+the fish chases the food
+the horse chases the wind
+the cow chases the fly
+the rabbit chases the mouse
+the mouse chases the cheese
+the cat likes the warm sun
+the dog likes the quiet yard
+the bird likes the blue sky
+the fish likes the cool pond
+the horse likes the green field
